@@ -12,11 +12,16 @@ class Login extends React.Component {
             <html>
                 <header>
                     <div id="head">
-                    <h1 id="headp">Link2RSVP</h1>
-                    <h2>test!!!1</h2>
+                    <h1 id="headp">LINK2RSVP</h1>
+                    <Button variant="light">
+                        sign up
+                    </Button>
                     </div>
+                   
+                    
                     </header>
             <div id="signin">
+                <h3 id="wel">Welcome to The Party</h3>
                 <Form>
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>Please Enter an Email address</Form.Label>

@@ -5,6 +5,8 @@
 #headp {
     text-align: center;
     padding: 15px;
+    margin-bottom: 40px;
+    color: white;
 }
 
 /**
@@ -18,10 +20,23 @@
 #signin {
     margin: 0 auto;
     width: 400px;
-    padding-top: 100px;
+    padding: 35px;
     background-color: rgb(240, 240, 240);
+   
 }
 
 html {
     background-color: rgb(255, 255, 255);
+}
+
+#signinbutton {
+    font-size: 15pt;
+    margin: 0;
+    position: absolute;
+    top: 61%;
+    left: 46%;
+}
+
+#wel {
+    text-align: center;
 }
