@@ -31,12 +31,16 @@ html {
 
 #signinbutton {
     font-size: 15pt;
-    margin: 0;
-    position: absolute;
-    top: 61%;
-    left: 46%;
+   
+    
 }
 
 #wel {
     text-align: center;
+}
+
+
+#signupbutton {
+    
+    
 }

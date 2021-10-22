@@ -13,8 +13,8 @@ class Login extends React.Component {
                 <header>
                     <div id="head">
                     <h1 id="headp">LINK2RSVP</h1>
-                    <Button variant="light">
-                        sign up
+                    <Button  id="signupbutton" variant="light">
+                        SignUp
                     </Button>
                     </div>
                    
